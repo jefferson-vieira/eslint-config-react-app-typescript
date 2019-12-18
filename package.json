@@ -1,0 +1,22 @@
+{
+  "name": "eslint-config-react-app-typescript",
+  "version": "0.0.0",
+  "private": false,
+  "description": "ESLint configuration for react apps with typescript",
+  "repository": "https://github.com/jefferson-vieira/eslint-config-react-app-typescript",
+  "license": "MIT",
+  "author": "Jefferson Vieira da Silva",
+  "files": [
+    "index.js"
+  ],
+  "main": "index.js",
+  "dependencies": {
+    "eslint-config-airbnb": "18.x",
+    "eslint-config-prettier": "6.x",
+    "eslint-config-react-app": "5.x",
+    "eslint-import-resolver-typescript": "2.x",
+    "eslint-plugin-babel": "5.x",
+    "eslint-plugin-prettier": "3.x",
+    "prettier": "1.x"
+  }
+}
